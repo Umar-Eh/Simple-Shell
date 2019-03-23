@@ -1,31 +1,27 @@
-Simple Shell Project
+### Simple Shell Project
 
-Objectives:<br><br>
-Learn to work in groups to develop software using Git<br><br>
-
-Gain experience developing multi-source file projects in C<br><br>
-
-Experience using Makefiles and other software build tools<br><br><br>
+**Objectives:**<br><br>
+1. Learn to develop software using Git<br><br>
+2. Gain experience developing multi-source file projects in C<br><br>
+3. Experience using Makefiles and other software build tools<br><br><br>
 
 
-Description:<br>
+**Description:**<br>
 Design a simple command line shell and implement it on the specified UNIX platform
 The Shell or Command Line Interpreter is the fundamental User interface to
 an Operating System. The lab project is to write a simple shell - myshell -
 that has the following functions:<br><br>
 
-cd - change working directory<br>
-clr - clear the screen<br>
-dir - list the contents of the directory<br>
-environ - list all the environment string<br>
-echo - display the diaply followed by a new line<br>
-help - display the user manual using the more filter<br>
-pause - pause operation of the shell<br>
-quit - quit the shell<br><br>
+*change working directory<br>
+*clear the screen<br>
+*list the contents of the directory<br>
+*list all the environment string<br>
+*display the diaply followed by a new line<br>
+*display the user manual using the more filter<br>
+*pause operation of the shell<br>
+*quit the shell<br><br>
 
-
-
-Usage:<br>
+**Usage:**<br>
 The shell can be invoked on Windows command line interpreter by typing myshell. It can be invoked on a UNIX based OS<br>
 by typing /myshell. The program accepts one argument which can be a batchfile containing user commands. <br>
 For example: ./myshell commands.txt <br>
