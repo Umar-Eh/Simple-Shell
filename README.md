@@ -9,7 +9,7 @@
 **Description:**<br>
 Design a simple command line shell and implement it on the specified UNIX platform
 The Shell or Command Line Interpreter is the fundamental User interface to
-an Operating System. The lab project is to write a simple shell - myshell -
+an Operating System. The project is to write a simple shell - myshell -
 that has the following functions:<br>
 
 * change working directory
