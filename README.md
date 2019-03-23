@@ -10,7 +10,7 @@
 Design a simple command line shell and implement it on the specified UNIX platform
 The Shell or Command Line Interpreter is the fundamental User interface to
 an Operating System. The lab project is to write a simple shell - myshell -
-that has the following functions:<br><br>
+that has the following functions:<br>
 
 * change working directory
 * clear the screen
@@ -21,7 +21,7 @@ that has the following functions:<br><br>
 * pause operation of the shell
 * quit the shell
 
-**Usage:**<br>
+<br>**Usage:**<br>
 The shell can be invoked on Windows command line interpreter by typing myshell. It can be invoked on a UNIX based OS<br>
 by typing /myshell. The program accepts one argument which can be a batchfile containing user commands. <br>
 For example: ./myshell commands.txt <br>
