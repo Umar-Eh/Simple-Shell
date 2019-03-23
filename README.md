@@ -1,9 +1,9 @@
-### Simple Shell Project
-<br>
+### Simple Shell Project<br><br>
+
 **Objectives:**<br>
-1. Learn to develop software using Git<br><br>
-2. Gain experience developing multi-source file projects in C<br><br>
-3. Experience using Makefiles and other software build tools<br><br><br>
+1. Learn to develop software using Git<br>
+2. Gain experience developing multi-source file projects in C<br>
+3. Experience using Makefiles and other software build tools<br><br>
 
 
 **Description:**<br>
