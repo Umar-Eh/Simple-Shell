@@ -12,22 +12,21 @@ The Shell or Command Line Interpreter is the fundamental User interface to
 an Operating System. The lab project is to write a simple shell - myshell -
 that has the following functions:<br><br>
 
-*change working directory<br>
-*clear the screen<br>
-*list the contents of the directory<br>
-*list all the environment string<br>
-*display the diaply followed by a new line<br>
-*display the user manual using the more filter<br>
-*pause operation of the shell<br>
-*quit the shell<br><br>
+* change working directory
+* clear the screen
+* list the contents of the directory
+* list all the environment string
+* display the diaply followed by a new line
+* display the user manual using the more filter
+* pause operation of the shell
+* quit the shell
 
 **Usage:**<br>
 The shell can be invoked on Windows command line interpreter by typing myshell. It can be invoked on a UNIX based OS<br>
 by typing /myshell. The program accepts one argument which can be a batchfile containing user commands. <br>
 For example: ./myshell commands.txt <br>
-<br>
 
-The following are the commands for the shell: <br><br>
+The following are the commands for the shell: <br>
 
 help :  Lists the help menu <br>
 dir "directory":  Lists the contents of the directory <br>
