@@ -1,4 +1,6 @@
-### Simple Shell Project<br><br>
+### Simple Shell Project<br>
+[![Build Status](https://travis-ci.org/Umar-Eh/Simple-Shell.svg?branch=master)](https://travis-ci.org/Umar-Eh/Simple-Shell)
+<br>
 
 **Objectives:**<br>
 1. Learn to develop software using Git<br>
